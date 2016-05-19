@@ -1,0 +1,3 @@
+MediaCoderSolver - MediaCoder is a popular transcoding software, but unfortunately it has annoying nag screens which appear when transcoding in order to make you "donate". This program fixes that problem by looking for the nag screens and solving the problems that they present so that transcoding can continue without interruption if the user is AFK.
+
+If you just want an executable to run, go here: https://www.dropbox.com/s/ti3trxie3j5kcav/FrontEndMediaCoderSolver.exe?dl=0
