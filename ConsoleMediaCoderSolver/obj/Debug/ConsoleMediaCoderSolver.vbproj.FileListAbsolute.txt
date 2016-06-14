@@ -18,3 +18,12 @@ D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\Cons
 D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.vbprojResolveAssemblyReference.cache
 D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.Resources.resources
 D:\Users\Joshua\Dropbox\Public\Projects\VB\$Working\ConsoleMediaCoderSolver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.vbproj.GenerateResource.Cache
+D:\Users\Joshua\Dropbox\Projects\C# & VB\mediacoder-solver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.exe
+D:\Users\Joshua\Dropbox\Projects\C# & VB\mediacoder-solver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.xml
+D:\Users\Joshua\Dropbox\Projects\C# & VB\mediacoder-solver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.pdb
+D:\Users\Joshua\Dropbox\Projects\C# & VB\mediacoder-solver\ConsoleMediaCoderSolver\bin\Debug\ConsoleMediaCoderSolver.exe
+D:\Users\Joshua\Dropbox\Projects\C# & VB\mediacoder-solver\ConsoleMediaCoderSolver\bin\Debug\ConsoleMediaCoderSolver.pdb
+D:\Users\Joshua\Dropbox\Projects\C# & VB\mediacoder-solver\ConsoleMediaCoderSolver\bin\Debug\ConsoleMediaCoderSolver.xml
+D:\Users\Joshua\Dropbox\Projects\C# & VB\mediacoder-solver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.vbprojResolveAssemblyReference.cache
+D:\Users\Joshua\Dropbox\Projects\C# & VB\mediacoder-solver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.Resources.resources
+D:\Users\Joshua\Dropbox\Projects\C# & VB\mediacoder-solver\ConsoleMediaCoderSolver\obj\Debug\ConsoleMediaCoderSolver.vbproj.GenerateResource.Cache
